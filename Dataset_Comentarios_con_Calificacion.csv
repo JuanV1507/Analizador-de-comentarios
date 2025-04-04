@@ -1,0 +1,3001 @@
+comentario,sentimiento,calificacion
+Nada de lo que dijeron fue cierto.,negativo,1
+"Correcto, sin destacar.",neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Es un software promedio.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+No funciona como se prometió.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La tecnología implementada es de última generación.,positivo,5
+La instalación fue un caos total.,negativo,2
+"Correcto, sin destacar.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+El sistema se traba constantemente.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Es un software promedio.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Es un software promedio.,neutro,3
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Regular en todos los aspectos.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+No funciona como se prometió.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Correcto, sin destacar.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+No funciona como se prometió.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+El sistema se traba constantemente.,negativo,1
+La tecnología implementada es de última generación.,positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Tuve una experiencia normal.,neutro,3
+La instalación fue un caos total.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Me sirvió para lo necesario.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+El sistema se traba constantemente.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+La tecnología implementada es de última generación.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema se traba constantemente.,negativo,1
+Regular en todos los aspectos.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Es un software promedio.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+La instalación fue un caos total.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+Nada fuera de lo común.,neutro,3
+Regular en todos los aspectos.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+La tecnología implementada es de última generación.,positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Es un software promedio.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Tuve una experiencia normal.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Es un software promedio.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Me sirvió para lo necesario.,neutro,3
+No funciona como se prometió.,negativo,2
+No funciona como se prometió.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+No funciona como se prometió.,negativo,1
+La instalación fue un caos total.,negativo,1
+Nada fuera de lo común.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+La instalación fue un caos total.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada fuera de lo común.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Nada fuera de lo común.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+No funciona como se prometió.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+Tuve una experiencia normal.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Regular en todos los aspectos.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Correcto, sin destacar.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+No funciona como se prometió.,negativo,2
+El sistema se traba constantemente.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+El sistema se traba constantemente.,negativo,1
+El sistema se traba constantemente.,negativo,1
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Tuve una experiencia normal.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Regular en todos los aspectos.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+No funciona como se prometió.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada fuera de lo común.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+La instalación fue un caos total.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+Estoy muy insatisfecho con el producto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+Es un software promedio.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Correcto, sin destacar.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+No funciona como se prometió.,negativo,2
+No funciona como se prometió.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+La tecnología implementada es de última generación.,positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+No funciona como se prometió.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+La tecnología implementada es de última generación.,positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Correcto, sin destacar.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+Regular en todos los aspectos.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Correcto, sin destacar.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,4
+El sistema se traba constantemente.,negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+No funciona como se prometió.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+No funciona como se prometió.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Es un software promedio.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+El sistema se traba constantemente.,negativo,1
+La tecnología implementada es de última generación.,positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Es un software promedio.,neutro,3
+Es un software promedio.,neutro,3
+El sistema se traba constantemente.,negativo,2
+Tuve una experiencia normal.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+No funciona como se prometió.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+El sistema se traba constantemente.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La instalación fue un caos total.,negativo,1
+La instalación fue un caos total.,negativo,2
+El sistema se traba constantemente.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Nada fuera de lo común.,neutro,3
+La instalación fue un caos total.,negativo,2
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Es un software promedio.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema se traba constantemente.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Correcto, sin destacar.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+La instalación fue un caos total.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Es un software promedio.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Correcto, sin destacar.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+No funciona como se prometió.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La instalación fue un caos total.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Tuve una experiencia normal.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+El sistema se traba constantemente.,negativo,1
+No funciona como se prometió.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+El sistema se traba constantemente.,negativo,1
+El sistema se traba constantemente.,negativo,1
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+La instalación fue un caos total.,negativo,2
+La tecnología implementada es de última generación.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada fuera de lo común.,neutro,3
+Nada fuera de lo común.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Correcto, sin destacar.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema se traba constantemente.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+El sistema se traba constantemente.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+El sistema se traba constantemente.,negativo,2
+Regular en todos los aspectos.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Tuve una experiencia normal.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+No funciona como se prometió.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+La instalación fue un caos total.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,2
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+No funciona como se prometió.,negativo,1
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+"Correcto, sin destacar.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Correcto, sin destacar.",neutro,3
+La instalación fue un caos total.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+Tuve una experiencia normal.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+El sistema se traba constantemente.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Es un software promedio.,neutro,3
+El sistema se traba constantemente.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+Tuve una experiencia normal.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+La tecnología implementada es de última generación.,positivo,5
+No funciona como se prometió.,negativo,2
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Tuve una experiencia normal.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+No funciona como se prometió.,negativo,1
+Tuve una experiencia normal.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+La instalación fue un caos total.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+El sistema se traba constantemente.,negativo,2
+El sistema se traba constantemente.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+Regular en todos los aspectos.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+La tecnología implementada es de última generación.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+No funciona como se prometió.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+No funciona como se prometió.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+La instalación fue un caos total.,negativo,1
+La instalación fue un caos total.,negativo,2
+Es un software promedio.,neutro,3
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Es un software promedio.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+El sistema se traba constantemente.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+No funciona como se prometió.,negativo,1
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Regular en todos los aspectos.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+No funciona como se prometió.,negativo,1
+No funciona como se prometió.,negativo,2
+Regular en todos los aspectos.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+Tuve una experiencia normal.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Correcto, sin destacar.",neutro,3
+El sistema se traba constantemente.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+El sistema se traba constantemente.,negativo,1
+Tuve una experiencia normal.,neutro,3
+Nada fuera de lo común.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+La instalación fue un caos total.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+El sistema se traba constantemente.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Correcto, sin destacar.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+No funciona como se prometió.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Es un software promedio.,neutro,3
+Tuve una experiencia normal.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+La instalación fue un caos total.,negativo,1
+El sistema se traba constantemente.,negativo,2
+Regular en todos los aspectos.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+No funciona como se prometió.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+El sistema se traba constantemente.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+La instalación fue un caos total.,negativo,2
+Nada fuera de lo común.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Tuve una experiencia normal.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+La instalación fue un caos total.,negativo,1
+Tuve una experiencia normal.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Correcto, sin destacar.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Correcto, sin destacar.",neutro,3
+El sistema se traba constantemente.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+No funciona como se prometió.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Tuve una experiencia normal.,neutro,3
+La instalación fue un caos total.,negativo,1
+Tuve una experiencia normal.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+La instalación fue un caos total.,negativo,1
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+La tecnología implementada es de última generación.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+El sistema se traba constantemente.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+Es un software promedio.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+El sistema se traba constantemente.,negativo,2
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"Correcto, sin destacar.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Tuve una experiencia normal.,neutro,3
+Tuve una experiencia normal.,neutro,3
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Regular en todos los aspectos.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+La instalación fue un caos total.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Tuve una experiencia normal.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+Es un software promedio.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+El sistema se traba constantemente.,negativo,2
+No funciona como se prometió.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+La tecnología implementada es de última generación.,positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+No funciona como se prometió.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+No funciona como se prometió.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+El sistema se traba constantemente.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Tuve una experiencia normal.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Correcto, sin destacar.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+La instalación fue un caos total.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+Es un software promedio.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+Es un software promedio.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+La instalación fue un caos total.,negativo,1
+No funciona como se prometió.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Tuve una experiencia normal.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Correcto, sin destacar.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Regular en todos los aspectos.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+La instalación fue un caos total.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,2
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,2
+Regular en todos los aspectos.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+La instalación fue un caos total.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+Es un software promedio.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+La tecnología implementada es de última generación.,positivo,5
+No funciona como se prometió.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Nada fuera de lo común.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Correcto, sin destacar.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Regular en todos los aspectos.,neutro,3
+Nada fuera de lo común.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+El sistema se traba constantemente.,negativo,1
+No funciona como se prometió.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+La instalación fue un caos total.,negativo,2
+El sistema se traba constantemente.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+El sistema se traba constantemente.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+Es un software promedio.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+Tuve una experiencia normal.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+La tecnología implementada es de última generación.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+La instalación fue un caos total.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+La tecnología implementada es de última generación.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+El sistema se traba constantemente.,negativo,2
+El sistema se traba constantemente.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+Es un software promedio.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+Es un software promedio.,neutro,3
+La instalación fue un caos total.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Nada fuera de lo común.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+La instalación fue un caos total.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Correcto, sin destacar.",neutro,3
+No funciona como se prometió.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+No funciona como se prometió.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Correcto, sin destacar.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Tuve una experiencia normal.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+El sistema se traba constantemente.,negativo,1
+Es un software promedio.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+La instalación fue un caos total.,negativo,2
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+No funciona como se prometió.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Es un software promedio.,neutro,3
+Es un software promedio.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+La instalación fue un caos total.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+Regular en todos los aspectos.,neutro,3
+Tuve una experiencia normal.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+El sistema se traba constantemente.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+La instalación fue un caos total.,negativo,1
+La instalación fue un caos total.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Tuve una experiencia normal.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada fuera de lo común.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Tuve una experiencia normal.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+No funciona como se prometió.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Nada fuera de lo común.,neutro,3
+No funciona como se prometió.,negativo,2
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,1
+Nada fuera de lo común.,neutro,3
+Regular en todos los aspectos.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+La instalación fue un caos total.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Nada fuera de lo común.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,2
+Tuve una experiencia normal.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+El sistema se traba constantemente.,negativo,2
+"Lo uso, pero no me emociona.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+El sistema se traba constantemente.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Nada fuera de lo común.,neutro,3
+La instalación fue un caos total.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Correcto, sin destacar.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+No funciona como se prometió.,negativo,2
+El sistema se traba constantemente.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Nada fuera de lo común.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La instalación fue un caos total.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+No funciona como se prometió.,negativo,2
+"Lo uso, pero no me emociona.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+No funciona como se prometió.,negativo,1
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Tuve una experiencia normal.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Nada fuera de lo común.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Es un software promedio.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+La instalación fue un caos total.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+La instalación fue un caos total.,negativo,1
+No funciona como se prometió.,negativo,2
+No funciona como se prometió.,negativo,1
+El sistema se traba constantemente.,negativo,2
+No funciona como se prometió.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+"Correcto, sin destacar.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+Tuve una experiencia normal.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+No funciona como se prometió.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Tuve una experiencia normal.,neutro,3
+La instalación fue un caos total.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+No funciona como se prometió.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+Es un software promedio.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,2
+No funciona como se prometió.,negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+No funciona como se prometió.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+Nada fuera de lo común.,neutro,3
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada fuera de lo común.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+La instalación fue un caos total.,negativo,2
+La tecnología implementada es de última generación.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+Regular en todos los aspectos.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Nada fuera de lo común.,neutro,3
+El sistema se traba constantemente.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+El sistema se traba constantemente.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+El sistema se traba constantemente.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+La instalación fue un caos total.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+No funciona como se prometió.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+Regular en todos los aspectos.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Lo uso, pero no me emociona.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+No funciona como se prometió.,negativo,2
+El sistema se traba constantemente.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+La tecnología implementada es de última generación.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema se traba constantemente.,negativo,1
+El sistema se traba constantemente.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+No funciona como se prometió.,negativo,2
+El sistema se traba constantemente.,negativo,1
+No funciona como se prometió.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+No funciona como se prometió.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+Nada fuera de lo común.,neutro,3
+El sistema se traba constantemente.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Correcto, sin destacar.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+La instalación fue un caos total.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada fuera de lo común.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+La tecnología implementada es de última generación.,positivo,4
+No funciona como se prometió.,negativo,1
+Regular en todos los aspectos.,neutro,3
+Nada fuera de lo común.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Regular en todos los aspectos.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+No funciona como se prometió.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La tecnología implementada es de última generación.,positivo,5
+El sistema se traba constantemente.,negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+No funciona como se prometió.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+El sistema se traba constantemente.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Es un software promedio.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Correcto, sin destacar.",neutro,3
+La instalación fue un caos total.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+Es un software promedio.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Nada fuera de lo común.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Es un software promedio.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+La tecnología implementada es de última generación.,positivo,5
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Correcto, sin destacar.",neutro,3
+No funciona como se prometió.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Es un software promedio.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+El sistema se traba constantemente.,negativo,1
+Tuve una experiencia normal.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La instalación fue un caos total.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Es un software promedio.,neutro,3
+La instalación fue un caos total.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+La tecnología implementada es de última generación.,positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Correcto, sin destacar.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Regular en todos los aspectos.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+No funciona como se prometió.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+La instalación fue un caos total.,negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+Es un software promedio.,neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Regular en todos los aspectos.,neutro,3
+Tuve una experiencia normal.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+La instalación fue un caos total.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Regular en todos los aspectos.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+No funciona como se prometió.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+No funciona como se prometió.,negativo,2
+El sistema se traba constantemente.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Regular en todos los aspectos.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+La tecnología implementada es de última generación.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+La tecnología implementada es de última generación.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Correcto, sin destacar.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+No funciona como se prometió.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Correcto, sin destacar.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,4
+Nada fuera de lo común.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+La instalación fue un caos total.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+Es un software promedio.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+Regular en todos los aspectos.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Es un software promedio.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Correcto, sin destacar.",neutro,3
+Es un software promedio.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+La instalación fue un caos total.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+El sistema se traba constantemente.,negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,2
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+La instalación fue un caos total.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema se traba constantemente.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Nada fuera de lo común.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+No funciona como se prometió.,negativo,1
+Tuve una experiencia normal.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Tuve una experiencia normal.,neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+Tuve una experiencia normal.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,5
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+Es un software promedio.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+No funciona como se prometió.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+Regular en todos los aspectos.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"Correcto, sin destacar.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+El sistema se traba constantemente.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,4
+La tecnología implementada es de última generación.,positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Es un software promedio.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+La tecnología implementada es de última generación.,positivo,5
+Nada fuera de lo común.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Correcto, sin destacar.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+No funciona como se prometió.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Es un software promedio.,neutro,3
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+Regular en todos los aspectos.,neutro,3
+La instalación fue un caos total.,negativo,2
+La instalación fue un caos total.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+Nada fuera de lo común.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Es un software promedio.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Correcto, sin destacar.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+La instalación fue un caos total.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Es un software promedio.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+La instalación fue un caos total.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Correcto, sin destacar.",neutro,3
+No funciona como se prometió.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+Me sirvió para lo necesario.,neutro,3
+La instalación fue un caos total.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,2
+Tuve una experiencia normal.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+La tecnología implementada es de última generación.,positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+No funciona como se prometió.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Correcto, sin destacar.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Es un software promedio.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Nada de lo que dijeron fue cierto.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+Estoy muy insatisfecho con el producto.,negativo,1
+La tecnología implementada es de última generación.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+No funciona como se prometió.,negativo,1
+"Correcto, sin destacar.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+No funciona como se prometió.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+Es un software promedio.,neutro,3
+El sistema se traba constantemente.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+No funciona como se prometió.,negativo,2
+No funciona como se prometió.,negativo,2
+"Lo uso, pero no me emociona.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+Nada fuera de lo común.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+La tecnología implementada es de última generación.,positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Tuve una experiencia normal.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Nada fuera de lo común.,neutro,3
+Nada fuera de lo común.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+No funciona como se prometió.,negativo,2
+Tuve una experiencia normal.,neutro,3
+Es un software promedio.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+La instalación fue un caos total.,negativo,2
+El sistema se traba constantemente.,negativo,1
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+Nada fuera de lo común.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"El producto está bien, cumple lo básico.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+Muy satisfecho con el rendimiento del software.,positivo,5
+No funciona como se prometió.,negativo,1
+No funciona como se prometió.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+Es un software promedio.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+La tecnología implementada es de última generación.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Estoy muy insatisfecho con el producto.,negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Regular en todos los aspectos.,neutro,3
+Es un software promedio.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+La instalación fue un caos total.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+El sistema se traba constantemente.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+Regular en todos los aspectos.,neutro,3
+El sistema se traba constantemente.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+La instalación fue un caos total.,negativo,1
+La tecnología implementada es de última generación.,positivo,5
+No funciona como se prometió.,negativo,1
+El sistema se traba constantemente.,negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+Es un software promedio.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Correcto, sin destacar.",neutro,3
+La instalación fue un caos total.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+La tecnología implementada es de última generación.,positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+El sistema se traba constantemente.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+No funciona como se prometió.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,1
+No funciona como se prometió.,negativo,1
+Es un software promedio.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+El sistema se traba constantemente.,negativo,1
+La instalación fue un caos total.,negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La instalación fue un caos total.,negativo,1
+"Correcto, sin destacar.",neutro,3
+No funciona como se prometió.,negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Ni bueno ni malo, está aceptable.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+El sistema se traba constantemente.,negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Tuve una experiencia normal.,neutro,3
+Regular en todos los aspectos.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,1
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Me sirvió para lo necesario.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema se traba constantemente.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Es un software promedio.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+No funciona como se prometió.,negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+El sistema se traba constantemente.,negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"Correcto, sin destacar.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+El sistema se traba constantemente.,negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+La tecnología implementada es de última generación.,positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+Regular en todos los aspectos.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"No me gustó, tiene muchos errores.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+La instalación fue un caos total.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Es un software promedio.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+La tecnología implementada es de última generación.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+La instalación fue un caos total.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Regular en todos los aspectos.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Tuve una experiencia normal.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+La instalación fue un caos total.,negativo,1
+Es un software promedio.,neutro,3
+El sistema se traba constantemente.,negativo,2
+El sistema se traba constantemente.,negativo,2
+El sistema se traba constantemente.,negativo,2
+"No me gustó, tiene muchos errores.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Estoy muy insatisfecho con el producto.,negativo,2
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+Es un software promedio.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Es un software promedio.,neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+La instalación fue un caos total.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+Tuve una experiencia normal.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+Nada fuera de lo común.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+Me sirvió para lo necesario.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,1
+La tecnología implementada es de última generación.,positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+No funciona como se prometió.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+Nada fuera de lo común.,neutro,3
+Es un software promedio.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,1
+El sistema se traba constantemente.,negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Lento, poco intuitivo y nada profesional.",negativo,2
+Tuve una experiencia normal.,neutro,3
+El sistema se traba constantemente.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Es un software promedio.,neutro,3
+"Correcto, sin destacar.",neutro,3
+Es un software promedio.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,5
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+El sistema se traba constantemente.,negativo,2
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+No funciona como se prometió.,negativo,1
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+No funciona como se prometió.,negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Lo uso, pero no me emociona.",neutro,3
+"Ni bueno ni malo, está aceptable.",neutro,3
+Regular en todos los aspectos.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Me sirvió para lo necesario.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+Regular en todos los aspectos.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+La instalación fue un caos total.,negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+El sistema se traba constantemente.,negativo,2
+"Ni bueno ni malo, está aceptable.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+Nada fuera de lo común.,neutro,3
+"Correcto, sin destacar.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+El sistema se traba constantemente.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"No me gustó, tiene muchos errores.",negativo,1
+Es un software promedio.,neutro,3
+La instalación fue un caos total.,negativo,1
+Muy satisfecho con el rendimiento del software.,positivo,4
+Me sirvió para lo necesario.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+"Correcto, sin destacar.",neutro,3
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+No funciona como se prometió.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Estoy muy insatisfecho con el producto.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada de lo que dijeron fue cierto.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,5
+Tuve una experiencia normal.,neutro,3
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Regular en todos los aspectos.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+Tuve una experiencia normal.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+Me sirvió para lo necesario.,neutro,3
+Me sirvió para lo necesario.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+Nada fuera de lo común.,neutro,3
+Tuve una experiencia normal.,neutro,3
+No funciona como se prometió.,negativo,2
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+"Correcto, sin destacar.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Lo uso, pero no me emociona.",neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+Nada fuera de lo común.,neutro,3
+Nada de lo que dijeron fue cierto.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Lo uso, pero no me emociona.",neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+Me sirvió para lo necesario.,neutro,3
+El sistema se traba constantemente.,negativo,2
+Muy satisfecho con el rendimiento del software.,positivo,5
+"No me gustó, tiene muchos errores.",negativo,2
+Regular en todos los aspectos.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,4
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,4
+La instalación fue un caos total.,negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+"No me gustó, tiene muchos errores.",negativo,1
+Estoy muy insatisfecho con el producto.,negativo,1
+"No me gustó, tiene muchos errores.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+Es un software promedio.,neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,5
+"Correcto, sin destacar.",neutro,3
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+El sistema se traba constantemente.,negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,1
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+No funciona como se prometió.,negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Me sirvió para lo necesario.,neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Nada fuera de lo común.,neutro,3
+"Funciona como se esperaba, nada sorprendente.",neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Nada de lo que dijeron fue cierto.,negativo,1
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+Regular en todos los aspectos.,neutro,3
+La tecnología implementada es de última generación.,positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Ni bueno ni malo, está aceptable.",neutro,3
+Nada de lo que dijeron fue cierto.,negativo,1
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Lo uso, pero no me emociona.",neutro,3
+El sistema se traba constantemente.,negativo,2
+Me sirvió para lo necesario.,neutro,3
+El sistema se traba constantemente.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"Recomiendo este producto, vale cada peso.",positivo,4
+La instalación fue un caos total.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Lento, poco intuitivo y nada profesional.",negativo,1
+La instalación fue un caos total.,negativo,1
+"El producto está bien, cumple lo básico.",neutro,3
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Nada de lo que dijeron fue cierto.,negativo,1
+La instalación fue un caos total.,negativo,1
+"Todo fue profesional, rápido y eficiente.",positivo,5
+"El producto está bien, cumple lo básico.",neutro,3
+La instalación fue un caos total.,negativo,2
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+Tuve una experiencia normal.,neutro,3
+"Lento, poco intuitivo y nada profesional.",negativo,1
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+La instalación fue un caos total.,negativo,2
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+Nada fuera de lo común.,neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+Nada fuera de lo común.,neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,4
+"Correcto, sin destacar.",neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,1
+Nada de lo que dijeron fue cierto.,negativo,2
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Es un software promedio.,neutro,3
+No funciona como se prometió.,negativo,1
+"Recomiendo este producto, vale cada peso.",positivo,5
+"Muy mal servicio, perdí tiempo y dinero.",negativo,2
+"Tuve una mala experiencia, no volvería a comprar.",negativo,2
+"Muy útil para mi día a día, estoy feliz con la compra.",positivo,5
+La tecnología implementada es de última generación.,positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,5
+"Correcto, sin destacar.",neutro,3
+Estoy muy insatisfecho con el producto.,negativo,2
+"El producto está bien, cumple lo básico.",neutro,3
+"El producto está bien, cumple lo básico.",neutro,3
+Muy satisfecho con el rendimiento del software.,positivo,5
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,4
+La tecnología implementada es de última generación.,positivo,4
+Regular en todos los aspectos.,neutro,3
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Es un software promedio.,neutro,3
+Nada fuera de lo común.,neutro,3
+La instalación fue un caos total.,negativo,2
+"Me encanta cómo funciona, es muy intuitivo.",positivo,4
+"Gran experiencia, el soporte fue excelente.",positivo,4
+"Sorprendido por la calidad, superó lo que esperaba.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,4
+La tecnología implementada es de última generación.,positivo,4
+El sistema se traba constantemente.,negativo,2
+Es un software promedio.,neutro,3
+El sistema se traba constantemente.,negativo,1
+La tecnología implementada es de última generación.,positivo,4
+Tuve una experiencia normal.,neutro,3
+"Recomiendo este producto, vale cada peso.",positivo,4
+El sistema cumple perfectamente con mis expectativas.,positivo,5
+Regular en todos los aspectos.,neutro,3
+"Atención al cliente pésima, no lo recomiendo.",negativo,2
+"Recomiendo este producto, vale cada peso.",positivo,4
+"Increíble atención al cliente, los recomiendo totalmente.",positivo,5
+"Todo fue profesional, rápido y eficiente.",positivo,5
+Nada fuera de lo común.,neutro,3
+"Muy mal servicio, perdí tiempo y dinero.",negativo,1
+Me sirvió para lo necesario.,neutro,3

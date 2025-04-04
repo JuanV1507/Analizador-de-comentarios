@@ -1,24 +1,101 @@
-tipo,nombre,producto,calificacion,comentario
-estructurado,Lucía,Portal de Clientes,1.0,"No lo recomendaría, demasiados bugs."
-estructurado,Andrés,Portal de Clientes,4.0,"Me encanta la nueva interfaz, es muy intuitiva."
-estructurado,Luis,CRM Plus,3.0,"El sistema cumple su función, sin más."
-estructurado,Luis,CRM Plus,1.0,"Pésimo servicio, no cumple lo prometido."
-estructurado,Patricia,CRM Plus,4.0,La integración con otras herramientas es perfecta.
-estructurado,Lucía,Portal de Clientes,2.0,Es muy lento y se traba constantemente.
-estructurado,Jorge,Sistema de Nómina,1.0,Tuve muchos errores al facturar.
-estructurado,Lucía,ERP Cloud,5.0,La integración con otras herramientas es perfecta.
-estructurado,Jorge,CRM Plus,4.0,El sistema es muy eficiente y fácil de usar.
-estructurado,Carlos,App Móvil,1.0,El soporte técnico nunca responde.
-estructurado,Diana,ERP Cloud,2.0,Tuve muchos errores al facturar.
-estructurado,Fernanda,Portal de Clientes,4.0,Excelente atención al cliente.
-estructurado,Carlos,App Móvil,5.0,La integración con otras herramientas es perfecta.
-estructurado,Fernanda,ERP Cloud,2.0,"No lo recomendaría, demasiados bugs."
-estructurado,Jorge,CRM Plus,4.0,Excelente atención al cliente.
-no estructurado,,,,"horrible sistema, no pude ni entrar! 😡"
-no estructurado,,,,"mmm está bien, pero meh..."
-no estructurado,,,,"Me resolvieron el problema, gracias!"
-no estructurado,,,,no me gusta. Lento. Feo. Mal.
-no estructurado,,,,"wow, superó mis expectativas!"
-no estructurado,,,,"otra vez falla el sistema, qué sorpresa..."
-no estructurado,,,,"necesito ayuda, no puedo hacer login"
-no estructurado,,,,¡excelente todo! buen servicio :)
+tipo,nombre,producto,calificacion,comentario,comentario_limpio
+estructurado,Ana,CRM Plus,0.87,Interfaz muy intuitiva.,interfaz muy intuitiva.
+no estructurado,,,0.93,"Pésimo, no volveré a usarlo.","pésimo, volveré usarlo."
+estructurado,Mario,Sistema de Nómina,0.96,Me encanta cómo ha mejorado la experiencia.,encanta cómo mejorado experiencia.
+estructurado,Mario,ERP Cloud,0.95,"Muy lento, esperaba más.","muy lento, esperaba más."
+estructurado,Patricia,CRM Plus,0.86,Atención excelente y rápida.,atención excelente rápida.
+no estructurado,,,0.86,Los reportes son confusos.,los reportes son confusos.
+no estructurado,,,0.93,¡excelente todo! buen servicio :),excelente buen servicio
+estructurado,Patricia,Portal de Clientes,0.93,Demasiados errores al procesar.,demasiados errores procesar.
+estructurado,Diana,ERP Cloud,0.82,Tuve muchos errores al facturar.,tuve errores facturar
+estructurado,Lucía,Portal de Clientes,1.0,"No lo recomendaría, demasiados bugs.",recomendara demasiados bugs
+no estructurado,,,0.88,no me gusta. Lento. Feo. Mal.,gusta lento feo mal
+estructurado,Mario,CRM Plus,0.92,Siento que ha mejorado bastante.,siento que mejorado bastante.
+estructurado,Diana,Portal de Clientes,0.9,Siento que ha mejorado bastante.,siento que mejorado bastante.
+estructurado,Carlos,App Móvil,0.93,Demasiados errores al procesar.,demasiados errores procesar.
+estructurado,Jorge,ERP Cloud,0.96,Los reportes son confusos.,los reportes son confusos.
+estructurado,Patricia,CRM Plus,0.88,La integración con otras herramientas es perfecta.,integracin herramientas perfecta
+no estructurado,,,0.93,Muy fácil de usar.,muy fácil usar.
+no estructurado,,,0.84,Demasiados errores al procesar.,demasiados errores procesar.
+estructurado,Carlos,App Móvil,0.98,La integración con otras herramientas es perfecta.,integracin herramientas perfecta
+estructurado,Ana,App Móvil,0.83,Los reportes son confusos.,los reportes son confusos.
+estructurado,Fernanda,CRM Plus,0.84,Siento que ha mejorado bastante.,siento que mejorado bastante.
+estructurado,Fernanda,CRM Plus,0.81,Es justo lo que necesitaba.,justo que necesitaba.
+estructurado,Mario,Sistema de Nómina,0.9,No lo recomendaría.,recomendaría.
+no estructurado,,,0.83,Interfaz muy intuitiva.,interfaz muy intuitiva.
+no estructurado,,,0.85,Me gustó la nueva actualización.,gustó nueva actualización.
+no estructurado,,,0.86,"horrible sistema, no pude ni entrar! 😡",horrible sistema pude entrar
+estructurado,Carlos,App Móvil,0.97,Siento que ha mejorado bastante.,siento que mejorado bastante.
+no estructurado,,,0.96,Atención excelente y rápida.,atención excelente rápida.
+estructurado,Carlos,App Móvil,0.94,El soporte técnico nunca responde.,soporte tcnico nunca responde
+no estructurado,,,0.99,Genial para llevar el control.,genial para llevar control.
+estructurado,Fernanda,Portal de Clientes,0.91,Excelente atención al cliente.,excelente atencin cliente
+no estructurado,,,0.9,Superó mis expectativas.,superó mis expectativas.
+no estructurado,,,0.94,No lo recomendaría.,recomendaría.
+no estructurado,,,0.81,Falla constantemente.,falla constantemente.
+estructurado,Diana,App Móvil,0.91,Los reportes son confusos.,los reportes son confusos.
+estructurado,Lucía,Portal de Clientes,0.84,Es muy lento y se traba constantemente.,lento traba constantemente
+no estructurado,,,0.83,"Muy lento, esperaba más.","muy lento, esperaba más."
+estructurado,Andrés,ERP Cloud,0.94,Es justo lo que necesitaba.,justo que necesitaba.
+estructurado,Diana,Portal de Clientes,0.95,No lo recomendaría.,recomendaría.
+no estructurado,,,0.95,"mmm está bien, pero meh...",mmm est bien meh
+no estructurado,,,0.95,Es justo lo que necesitaba.,justo que necesitaba.
+estructurado,Luis,App Móvil,0.98,Podría ser más rápido.,podría ser más rápido.
+estructurado,Lucía,ERP Cloud,0.82,La integración con otras herramientas es perfecta.,integracin herramientas perfecta
+no estructurado,,,0.84,"Muy lento, esperaba más.","muy lento, esperaba más."
+no estructurado,,,0.85,Me gustó la nueva actualización.,gustó nueva actualización.
+no estructurado,,,0.96,"wow, superó mis expectativas!",wow super mis expectativas
+no estructurado,,,0.85,Falla constantemente.,falla constantemente.
+estructurado,Mario,App Móvil,0.99,No sirve para nada.,sirve para nada.
+no estructurado,,,0.83,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Fernanda,ERP Cloud,0.82,"No lo recomendaría, demasiados bugs.",recomendara demasiados bugs
+no estructurado,,,0.83,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Luis,CRM Plus,0.94,"Pésimo servicio, no cumple lo prometido.",psimo servicio cumple prometido
+no estructurado,,,0.81,"Me resolvieron el problema, gracias!",resolvieron problema gracias
+estructurado,Carlos,CRM Plus,0.92,Atención excelente y rápida.,atención excelente rápida.
+estructurado,Jorge,CRM Plus,0.9,El sistema es muy eficiente y fácil de usar.,sistema eficiente fcil usar
+estructurado,Jorge,App Móvil,0.8,Me gustó la nueva actualización.,gustó nueva actualización.
+estructurado,Jorge,Sistema de Nómina,0.81,Tuve muchos errores al facturar.,tuve errores facturar
+estructurado,Andrés,CRM Plus,0.8,Falla constantemente.,falla constantemente.
+estructurado,Fernanda,App Móvil,0.8,Los reportes son confusos.,los reportes son confusos.
+estructurado,Luis,ERP Cloud,0.84,Atención excelente y rápida.,atención excelente rápida.
+no estructurado,,,0.63,Me encanta cómo ha mejorado la experiencia.,encanta cómo mejorado experiencia.
+no estructurado,,,0.62,Funciona bien para lo básico.,funciona bien para básico.
+no estructurado,,,0.45,Interfaz muy intuitiva.,interfaz muy intuitiva.
+estructurado,Lucía,App Móvil,0.45,Atención excelente y rápida.,atención excelente rápida.
+no estructurado,,,0.67,Demasiados errores al procesar.,demasiados errores procesar.
+estructurado,Ana,CRM Plus,0.68,Falla constantemente.,falla constantemente.
+no estructurado,,,0.58,Interfaz muy intuitiva.,interfaz muy intuitiva.
+estructurado,Fernanda,App Móvil,0.54,Superó mis expectativas.,superó mis expectativas.
+estructurado,Patricia,Portal de Clientes,0.47,Siento que ha mejorado bastante.,siento que mejorado bastante.
+no estructurado,,,0.48,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Lucía,ERP Cloud,0.6,Demasiados errores al procesar.,demasiados errores procesar.
+no estructurado,,,0.64,Demasiados errores al procesar.,demasiados errores procesar.
+estructurado,Mario,Portal de Clientes,0.55,No me ayudaron cuando tuve un problema.,ayudaron cuando tuve problema.
+estructurado,Carlos,Sistema de Nómina,0.58,Me gustó la nueva actualización.,gustó nueva actualización.
+no estructurado,,,0.55,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Mario,App Móvil,0.09,"Muy lento, esperaba más.","muy lento, esperaba más."
+estructurado,Lucía,ERP Cloud,0.11,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Jorge,CRM Plus,0.08,"Muy lento, esperaba más.","muy lento, esperaba más."
+estructurado,Jorge,CRM Plus,0.23,Atención excelente y rápida.,atención excelente rápida.
+no estructurado,,,0.17,Funciona bien para lo básico.,funciona bien para básico.
+estructurado,Lucía,App Móvil,0.03,"Pésimo, no volveré a usarlo.","pésimo, volveré usarlo."
+no estructurado,,,0.17,"Pésimo, no volveré a usarlo.","pésimo, volveré usarlo."
+no estructurado,,,0.03,No lo recomendaría.,recomendaría.
+no estructurado,,,0.08,Los reportes son confusos.,los reportes son confusos.
+estructurado,Andrés,Portal de Clientes,0.05,"Me encanta la nueva interfaz, es muy intuitiva.",encanta nueva interfaz intuitiva
+no estructurado,,,0.2,Los reportes son confusos.,los reportes son confusos.
+no estructurado,,,0.36,"necesito ayuda, no puedo hacer login",necesito ayuda puedo hacer login
+estructurado,Luis,CRM Plus,0.38,"El sistema cumple su función, sin más.",sistema cumple funcin
+no estructurado,,,0.2,Me gustó la nueva actualización.,gustó nueva actualización.
+no estructurado,,,0.14,Me gustó la nueva actualización.,gustó nueva actualización.
+no estructurado,,,0.0,Atención excelente y rápida.,atención excelente rápida.
+estructurado,Luis,App Móvil,0.34,Funciona bien para lo básico.,funciona bien para básico.
+no estructurado,,,0.33,Genial para llevar el control.,genial para llevar control.
+estructurado,Jorge,CRM Plus,0.24,No carga bien desde el móvil.,carga bien desde móvil.
+no estructurado,,,0.31,"otra vez falla el sistema, qué sorpresa...",vez falla sistema sorpresa
+estructurado,Diana,Portal de Clientes,0.32,Me encanta cómo ha mejorado la experiencia.,encanta cómo mejorado experiencia.
+no estructurado,,,0.19,Es justo lo que necesitaba.,justo que necesitaba.
+estructurado,Jorge,CRM Plus,0.19,Excelente atención al cliente.,excelente atencin cliente
+no estructurado,,,0.07,Los reportes son confusos.,los reportes son confusos.
+no estructurado,,,0.37,Genial para llevar el control.,genial para llevar control.
