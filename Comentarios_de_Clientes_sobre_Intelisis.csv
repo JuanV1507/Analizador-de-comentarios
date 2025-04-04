@@ -1,0 +1,24 @@
+tipo,nombre,producto,calificacion,comentario
+estructurado,Lucía,Portal de Clientes,1.0,"No lo recomendaría, demasiados bugs."
+estructurado,Andrés,Portal de Clientes,4.0,"Me encanta la nueva interfaz, es muy intuitiva."
+estructurado,Luis,CRM Plus,3.0,"El sistema cumple su función, sin más."
+estructurado,Luis,CRM Plus,1.0,"Pésimo servicio, no cumple lo prometido."
+estructurado,Patricia,CRM Plus,4.0,La integración con otras herramientas es perfecta.
+estructurado,Lucía,Portal de Clientes,2.0,Es muy lento y se traba constantemente.
+estructurado,Jorge,Sistema de Nómina,1.0,Tuve muchos errores al facturar.
+estructurado,Lucía,ERP Cloud,5.0,La integración con otras herramientas es perfecta.
+estructurado,Jorge,CRM Plus,4.0,El sistema es muy eficiente y fácil de usar.
+estructurado,Carlos,App Móvil,1.0,El soporte técnico nunca responde.
+estructurado,Diana,ERP Cloud,2.0,Tuve muchos errores al facturar.
+estructurado,Fernanda,Portal de Clientes,4.0,Excelente atención al cliente.
+estructurado,Carlos,App Móvil,5.0,La integración con otras herramientas es perfecta.
+estructurado,Fernanda,ERP Cloud,2.0,"No lo recomendaría, demasiados bugs."
+estructurado,Jorge,CRM Plus,4.0,Excelente atención al cliente.
+no estructurado,,,,"horrible sistema, no pude ni entrar! 😡"
+no estructurado,,,,"mmm está bien, pero meh..."
+no estructurado,,,,"Me resolvieron el problema, gracias!"
+no estructurado,,,,no me gusta. Lento. Feo. Mal.
+no estructurado,,,,"wow, superó mis expectativas!"
+no estructurado,,,,"otra vez falla el sistema, qué sorpresa..."
+no estructurado,,,,"necesito ayuda, no puedo hacer login"
+no estructurado,,,,¡excelente todo! buen servicio :)
